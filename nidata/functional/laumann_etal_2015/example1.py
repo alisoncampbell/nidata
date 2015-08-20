@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/Users/Alison/code/nidata')
+
 import os
 # activating a package
 
